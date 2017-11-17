@@ -12,7 +12,7 @@
 ###############################################
 
 DENYHOSTS_BIN   = "/usr/sbin/denyhosts"
-DENYHOSTS_LOCK  = "/run/denyhosts.pid"
+DENYHOSTS_LOCK  = "/var/run/denyhosts.pid"
 DENYHOSTS_CFG   = "/etc/denyhosts.conf"
 
 PYTHON_BIN      = "/usr/bin/env python"
