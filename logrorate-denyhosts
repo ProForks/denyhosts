@@ -1,0 +1,10 @@
+/var/log/denyhosts 
+{
+	copytruncate
+	daily
+	dateext
+	delaycompress
+	missingok
+	notifempty
+	rotate 7
+}
